@@ -6,4 +6,4 @@ I am a PhD student in [Chien Lab](https://sites.biochem.umass.edu/chienlab/) at 
 
 ## Research Interests
 
-I am interested in applying a systems approach to deciphering protein quality control networks in bacteria. 
+I am applying a systems approach to decipher protein quality control networks in bacteria.
