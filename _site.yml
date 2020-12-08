@@ -1,0 +1,13 @@
+name: "EvoGenLab-13"
+navbar:
+  title: "EvoGenLab-13"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "EvoGenLab"
+      href: EvoGenLab.html
+output:
+  html_document:
+    theme: flatly

@@ -1,0 +1,41 @@
+---
+title: Evolutionary Genomics and Bioinformatics - FA20
+author: Berent Aldikacti
+date: "12/07/2020"
+---
+
+This is rendering html files from the course repository  (https://github.com/jeffreyblanchard/evogeno) for Evolutionary Genomics & Bioinformatics taught at the University of Massachusetts Amherst in Fall 2020 by Prof. Jeffrey Blanchard
+
+## Labs
+
+### R Basics
+
+* 1 : [Introduction to R and Reproducible Research](Lab1_BA.html)
+* 2 : [git, GitHub and Rstudio project](Lab2_BA.html)
+* 5.1 : [Data visualization with ggplot2](Lab5.1-R_BA.html)
+* 5.2 : [Lab5 Exercises](Lab5.2-R_BA.html)
+* 5.extra : [Interactive Graphs and Animations from the COVID-19 reporting data](Lab5extra-R_BA.html)
+* 6 : [Data Maps and Interactive Graphs from the COVID-19 reporting data](Lab6-R_BA.html)
+* 6-Report : [REPORT ON LATEST US COVID19 STATISTICS](Lab6-report-R.html)
+* 6-Shiny : [R Shiny apps using the COVID-19 reporting data](https://berent-aldikacti.shinyapps.io/Lab6-Shiny/)
+* 7 : [RNA-Seq workflow: gene-level exploratory analysis and differential expression](Lab7_BA.html)
+* 8 : [Sequence Alignment, Phylogenetic Analysis and Tree Visualization](Lab8-BA.html)
+* 9 : [Programming in R - Regular Expression](Lab9-BA.html)
+* 9x : [Programming in R - Control Structures and Functions](Lab9x.html)
+* 10 : [Population genomics based on high throughput sequencing (HTS)](Lab10-BA.html)
+* 11 : [Microbiome Analysis using dada2 and phyloseq](Lab11-BA.html)
+* 11x : [Microbiome Analysis using phyloseq](Lab11x-BA.html)
+* 12 : [Network Analysis using Cytoscape and RCy3](Lab12-BA.html)
+
+
+
+### Python Basics
+* 3.2 : [Short Introduction to Programming in Python](Lab3-2_BA.html)
+* 3.3 : [Starting with Data](Lab3-3-Python_BA.html)
+* 3.4 : [Indexing, Slicing and Subsetting DataFrames in Python](Lab3-4-Python_BA.html)
+* 4.1 : [Data Types and Formats](Lab4-1-Python_BA.html)
+* 4.2 : [Combining DataFrames and Pandas](Lab4-2-Python_BA.html)
+* 4.3 : [Data Workflows and Automation](Lab4-3-Python_BA.html)
+* 4.4 : [Making Plots with plotnine](Lab4-4-Python_BA.html)
+* 5.1 : [Data Ingest and Visualization - Matplotlib and Pandas](Lab5-1-Python_BA.html)
+* 5.2 : [Accessing SQLite Databases Using Python and Pandas](Lab5-2-Python_BA.html)
