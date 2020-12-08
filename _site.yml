@@ -1,4 +1,5 @@
 name: "EvoGenLab-13"
+output_dir: "docs"
 navbar:
   title: "EvoGenLab-13"
   left:
